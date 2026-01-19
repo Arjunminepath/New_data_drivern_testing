@@ -59,5 +59,6 @@ public class Login {
     public void sample()
     {
         System.out.println("this is for another sample method");
+        System.out.println("this is the new print statement");
     }
 }

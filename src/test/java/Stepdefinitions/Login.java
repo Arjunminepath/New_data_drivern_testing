@@ -59,6 +59,5 @@ public class Login {
     public void sample()
     {
         System.out.println("this is a new change");
-        System.out.println("added this line newly");
     }
 }
